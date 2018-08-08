@@ -8,6 +8,9 @@ To run this project, your system must have Python3, pip3, and Tensorflow install
 
 `sudo pip3 install tflearn`
 
+### For macOS
+Coming soon
+
 ## Docker
 Coming soon
 
